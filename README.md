@@ -68,4 +68,4 @@ show ip route
 show monitor session 11
 ```
 
-This lab reinforced the importance of enabling SVIs, activating IP routing, verifying OSPF neighbors, and selecting the correct SPAN source and destination. The configuration and local connectivity were verified; packet capture on the monitoring device would confirm the mirrored traffic.
+This lab reinforced the importance of enabling SVIs, activating IP routing, verifying OSPF neighbors, and selecting the correct SPAN source and destination. The configuration and local connectivity were verified; packet capture on the monitoring device would confirm the mirrored traffic and was done in https://pingmynetwork.com/sandbox. Check it out 
